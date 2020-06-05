@@ -1,0 +1,11 @@
+{
+    "p1": {"name": "Proyecto 1",   
+          "url":"https://github.com/carlossm50/os-sample-java-web"},
+    "p2": {"name": "Proyecto 2",   
+          "url":"https://github.com/carlossm50/aws1718-01"},
+    "p3": {"name": "Proyecto 3",   
+          "url":"https://github.com/carlossm50/aws-2018"},
+      "p4": {"name": "Proyecto 4",   
+          "url":"https://github.com/carlossm50/aws-2018"}     
+}
+
